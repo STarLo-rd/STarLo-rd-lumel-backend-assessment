@@ -1,10 +1,9 @@
 import express from "express";
 import { connectDB } from "./utils/database";
-import { loadCSVData } from "./utils/csvLoader";
 import { setupDataRefreshScheduler } from "./utils/scheduler";
 import { logger } from "./utils/logger";
-import dotenv from "dotenv";
-dotenv.config();
+import dataRoutes from "./routes/index";
+
 const app = express();
 const port = process.env.PORT || 3000;
 
@@ -15,37 +14,16 @@ app.get("/health", (req, res) => {
   res.json({ status: "ok" });
 });
 
-// Endpoint to trigger data loading
-app.post("/api/load-data", async (req, res) => {
-  try {
-    const filePath = req.body.filePath;
-    if (!filePath) {
-      return res.status(400).json({ error: "File path is required" });
-    }
+// API routes
+app.use("/api", dataRoutes);
 
-    const stats = await loadCSVData(filePath);
-    res.json({
-      message: "Data loading completed",
-      stats: {
-        recordsProcessed: stats.recordsProcessed,
-        errorCount: stats.errors.length,
-      },
-    });
-  } catch (error) {
-    logger.error("Error loading data:", error);
-    res.status(500).json({ error: "Failed to load data" });
-  }
-});
-
-async function startServer() {
+const startServer = async () => {
   try {
-    await connectDB();
+    await connectDB(process.env.MONGODB_URI || "mongodb://localhost:27017/lumel");
 
     // Initialize scheduler with default file path from environment
     const defaultFilePath = process.env.DEFAULT_CSV_PATH;
-    console.log(defaultFilePath);
     if (defaultFilePath) {
-      console.log("ovr here");
       setupDataRefreshScheduler(defaultFilePath);
     }
 
@@ -56,6 +34,6 @@ async function startServer() {
     logger.error("Failed to start server:", error);
     process.exit(1);
   }
-}
+};
 
 startServer();

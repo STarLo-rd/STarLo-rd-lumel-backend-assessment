@@ -15,3 +15,89 @@
 {"level":"info","message":"Loaded 7 records from CSV","timestamp":"2025-01-21T14:19:00.136Z"}
 {"level":"info","message":"Processed batch 1","timestamp":"2025-01-21T14:19:00.230Z"}
 {"errorCount":0,"level":"info","message":"Scheduled data refresh completed","recordsProcessed":7,"timestamp":"2025-01-21T14:19:00.231Z"}
+{"level":"info","message":"Starting scheduled data refresh","timestamp":"2025-01-21T14:20:00.192Z"}
+{"level":"info","message":"Loaded 7 records from CSV","timestamp":"2025-01-21T14:20:00.198Z"}
+{"level":"info","message":"Processed batch 1","timestamp":"2025-01-21T14:20:00.285Z"}
+{"errorCount":0,"level":"info","message":"Scheduled data refresh completed","recordsProcessed":7,"timestamp":"2025-01-21T14:20:00.285Z"}
+{"level":"info","message":"Data refresh scheduler initialized","timestamp":"2025-01-21T14:20:52.542Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:20:52.546Z"}
+{"level":"info","message":"Data refresh scheduler initialized","timestamp":"2025-01-21T14:20:59.696Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:20:59.701Z"}
+{"level":"info","message":"Starting scheduled data refresh","timestamp":"2025-01-21T14:21:00.697Z"}
+{"level":"info","message":"Loaded 7 records from CSV","timestamp":"2025-01-21T14:21:00.707Z"}
+{"level":"info","message":"Processed batch 1","timestamp":"2025-01-21T14:21:00.786Z"}
+{"errorCount":0,"level":"info","message":"Scheduled data refresh completed","recordsProcessed":7,"timestamp":"2025-01-21T14:21:00.787Z"}
+{"level":"info","message":"Data refresh scheduler initialized","timestamp":"2025-01-21T14:21:09.160Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:21:09.167Z"}
+{"level":"info","message":"Starting scheduled data refresh","timestamp":"2025-01-21T14:22:00.210Z"}
+{"level":"info","message":"Loaded 7 records from CSV","timestamp":"2025-01-21T14:22:00.230Z"}
+{"level":"info","message":"Processed batch 1","timestamp":"2025-01-21T14:22:00.386Z"}
+{"errorCount":0,"level":"info","message":"Scheduled data refresh completed","recordsProcessed":7,"timestamp":"2025-01-21T14:22:00.388Z"}
+{"level":"info","message":"Starting scheduled data refresh","timestamp":"2025-01-21T14:23:00.275Z"}
+{"level":"info","message":"Loaded 7 records from CSV","timestamp":"2025-01-21T14:23:00.286Z"}
+{"level":"info","message":"Processed batch 1","timestamp":"2025-01-21T14:23:00.384Z"}
+{"errorCount":0,"level":"info","message":"Scheduled data refresh completed","recordsProcessed":7,"timestamp":"2025-01-21T14:23:00.385Z"}
+{"level":"info","message":"Data refresh scheduler initialized","timestamp":"2025-01-21T14:23:15.838Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:23:15.844Z"}
+{"level":"info","message":"Data refresh scheduler initialized","timestamp":"2025-01-21T14:23:28.894Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:23:28.899Z"}
+{"level":"info","message":"Data refresh scheduler initialized","timestamp":"2025-01-21T14:23:41.978Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:23:41.983Z"}
+{"level":"info","message":"Data refresh scheduler initialized","timestamp":"2025-01-21T14:23:53.925Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:23:53.930Z"}
+{"level":"info","message":"Data refresh scheduler initialized","timestamp":"2025-01-21T14:24:06.745Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:24:06.750Z"}
+{"level":"info","message":"Starting scheduled data refresh","timestamp":"2025-01-21T14:25:00.804Z"}
+{"level":"info","message":"Loaded 7 records from CSV","timestamp":"2025-01-21T14:25:00.843Z"}
+{"level":"info","message":"Processed batch 1","timestamp":"2025-01-21T14:25:01.058Z"}
+{"errorCount":0,"level":"info","message":"Scheduled data refresh completed","recordsProcessed":7,"timestamp":"2025-01-21T14:25:01.059Z"}
+{"level":"info","message":"Data refresh scheduler initialized","timestamp":"2025-01-21T14:25:31.023Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:25:31.028Z"}
+{"level":"info","message":"Data refresh scheduler initialized","timestamp":"2025-01-21T14:25:42.910Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:25:42.915Z"}
+{"level":"info","message":"Data refresh scheduler initialized","timestamp":"2025-01-21T14:25:51.273Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:25:51.277Z"}
+{"level":"info","message":"Data refresh scheduler initialized","timestamp":"2025-01-21T14:25:54.872Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:25:54.877Z"}
+{"level":"info","message":"Starting scheduled data refresh","timestamp":"2025-01-21T14:26:00.878Z"}
+{"level":"info","message":"Loaded 7 records from CSV","timestamp":"2025-01-21T14:26:00.899Z"}
+{"level":"info","message":"Processed batch 1","timestamp":"2025-01-21T14:26:01.006Z"}
+{"errorCount":0,"level":"info","message":"Scheduled data refresh completed","recordsProcessed":7,"timestamp":"2025-01-21T14:26:01.007Z"}
+{"level":"info","message":"Data refresh scheduler initialized","timestamp":"2025-01-21T14:26:08.909Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:26:08.914Z"}
+{"level":"info","message":"Data refresh scheduler initialized","timestamp":"2025-01-21T14:26:34.443Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:26:34.447Z"}
+{"level":"info","message":"Data refresh scheduler initialized","timestamp":"2025-01-21T14:26:41.122Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:26:41.126Z"}
+{"level":"info","message":"Data refresh scheduler initialized","timestamp":"2025-01-21T14:26:46.594Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:26:46.599Z"}
+{"level":"info","message":"Data refresh scheduler initialized","timestamp":"2025-01-21T14:26:51.659Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:26:51.663Z"}
+{"level":"info","message":"Data refresh scheduler initialized","timestamp":"2025-01-21T14:26:59.757Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:26:59.762Z"}
+{"level":"info","message":"Starting scheduled data refresh","timestamp":"2025-01-21T14:27:00.758Z"}
+{"level":"info","message":"Loaded 7 records from CSV","timestamp":"2025-01-21T14:27:00.779Z"}
+{"level":"info","message":"Processed batch 1","timestamp":"2025-01-21T14:27:00.880Z"}
+{"errorCount":0,"level":"info","message":"Scheduled data refresh completed","recordsProcessed":7,"timestamp":"2025-01-21T14:27:00.880Z"}
+{"level":"info","message":"Data refresh scheduler initialized","timestamp":"2025-01-21T14:27:06.853Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:27:06.858Z"}
+{"level":"info","message":"Data refresh scheduler initialized","timestamp":"2025-01-21T14:27:15.101Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:27:15.105Z"}
+{"level":"info","message":"Data refresh scheduler initialized","timestamp":"2025-01-21T14:27:25.836Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:27:25.840Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:28:01.312Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:30:12.079Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:32:27.515Z"}
+{"level":"info","message":"Loaded 1506 records from CSV","timestamp":"2025-01-21T14:34:23.920Z"}
+{"level":"info","message":"Processed batch 1","timestamp":"2025-01-21T14:34:33.129Z"}
+{"level":"info","message":"Processed batch 2","timestamp":"2025-01-21T14:34:37.518Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:37:36.740Z"}
+{"level":"info","message":"Loaded 7 records from CSV","timestamp":"2025-01-21T14:38:47.451Z"}
+{"level":"info","message":"Processed batch 1","timestamp":"2025-01-21T14:38:47.704Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:42:27.528Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:44:19.837Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:44:31.019Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:44:34.467Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:44:55.513Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:45:49.946Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-01-21T14:45:59.657Z"}

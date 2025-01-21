@@ -3,8 +3,8 @@ import { loadCSVData } from './csvLoader';
 import { logger } from './logger';
 
 export function setupDataRefreshScheduler(filePath: string) {
-  // Schedule daily refresh at midnight
-  cron.schedule('* * * * *', async () => {
+  // Schedule daily refresh for every min
+  cron.schedule('1 * * * *', async () => {
     logger.info('Starting scheduled data refresh');
     try {
       const stats = await loadCSVData(filePath);
